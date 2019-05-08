@@ -1,5 +1,7 @@
 master 1
 develop 2
 feature-soqe 3
-release-1.2
 hotfix 8
+release-1.9
+hotfix2 9
+
